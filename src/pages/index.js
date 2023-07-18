@@ -12,6 +12,7 @@ export default function Home () {
       <main>
         <div>
           <Nav>Transactions</Nav>
+          <Nav>Settings</Nav>
         </div>
       </main>
     </>
